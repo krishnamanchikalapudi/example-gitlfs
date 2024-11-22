@@ -17,8 +17,13 @@ git add .gitattributess
     - source files uploaded to [GitHub repo](https://github.com/krishnamanchikalapudi/example-gitlfs)
     - Folder 'target' files uploaded to JFrog Artifactory Git LFS local repo
 
-![Namespace](./images/screenshot.png)
-
+## Screenshots
+- exec ./git-lfs.sh 
+![exe ./git-lfs.sh](./images/screenshot.png)
+- Artifactory Zip file
+![RT zip file](./images/rt_screenshot_zip.png)
+- Artifactory JAR file
+ ![RT jar file](./images/rt_screenshot_jar.png)
 
 ## References
 - [https://jfrog.com/help/r/how-to-make-git-lfs-work-and-configure-it-with-artifactory-in-5-min/git-lfs-artifactory-quick-start-guide](https://jfrog.com/help/r/how-to-make-git-lfs-work-and-configure-it-with-artifactory-in-5-min/git-lfs-artifactory-quick-start-guide)
