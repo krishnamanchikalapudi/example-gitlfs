@@ -16,7 +16,8 @@ git add .gitattributess
 - Run git commands: add, commit, push
     - source files uploaded to [GitHub repo](https://github.com/krishnamanchikalapudi/example-gitlfs)
     - Folder 'target' files uploaded to JFrog Artifactory Git LFS local repo
-    
+
+![Namespace](./images/screenshot.png)
 
 
 ## References
