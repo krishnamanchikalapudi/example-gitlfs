@@ -4,7 +4,7 @@ set -x # activate debugging from here
 echo "\n GIT-LFS:  $(git lfs version)"
 
 echo "\n"
-git lfs track "target/*.*"
+git lfs track "target/*.zip,target/*.jar"
 
 echo "\n"
 git add . -v
